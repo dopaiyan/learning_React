@@ -20,7 +20,7 @@ export const App = () => {
     <>
         <h1 style={{color :"red"}}>こんにちは！</h1>
         <ColoredMessage color="blue">受け渡し成功</ColoredMessage>
-        <ColoredMessage color="pink">元気そうです！</ColoredMessage>
+        <ColoredMessage color="pink">gitにあげたよ</ColoredMessage>
         <button onClick={onClickButton}>ボタン</button>
         <p>{ num }</p>
     </>
